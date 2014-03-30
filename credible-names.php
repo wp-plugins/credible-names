@@ -3,7 +3,7 @@
 Plugin Name: Credible Names
 Plugin URI: http://wordpress.org/plugins/credible-names/
 Description: Ensure user's nickname and display name are unique and not a display name or nick name or user name of someone else within the site.
-Version: 0.1.1
+Version: 0.1.2
 Author: nafSadh Khan
 Author URI: http://nafSadh.com/Khan
 */

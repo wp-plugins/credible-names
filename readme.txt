@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: display name, nickname, user login, unique
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: Public Domain
 
 Ensure user's nickname and display name are unique and not a display name or nick name or user name of someone else

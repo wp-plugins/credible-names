@@ -26,8 +26,8 @@ Credible Names is a easy plugin to help you with that.
 The usual!
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
 
 == Frequently Asked Questions ==
 
@@ -40,11 +40,8 @@ None
 
 == Changelog ==
 
+0.1.1 Created
 
 == Upgrade Notice ==
 
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
+Upgrade to newest WordPress whenever possible

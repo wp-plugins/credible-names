@@ -1,10 +1,10 @@
 === Credible Names ===
 Contributors: nafsadh
-Donate link: http://example.com/
+Donate link: http://nafsadh.com/donate
 Tags: display name, nickname, user login, unique
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 0.1.2
+Tested up to: 4.2.2
+Stable tag: 0.1.3
 License: Public Domain
 
 Ensure user's nickname and display name are unique and not a display name or nick name or user name of someone else
@@ -41,6 +41,8 @@ None
 == Changelog ==
 
 0.1.1 Created
+0.1.2 First stable
+0.1.3 fixed query errors
 
 == Upgrade Notice ==
 
